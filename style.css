@@ -18,7 +18,7 @@
 
 
 .navi-content .links {
-	font-family: 'Roboto', Arial;
+	font-family: 'Quicksand', sans-serif; 
 	letter-spacing: 0.3em;
 	color: #838994;
 	-webkit-font-smoothing: antialiased;
@@ -47,7 +47,7 @@ ol, ul {
     background-size: cover;
     height: 45.938rem;
     overflow: auto;
-    font-family: 'Roboto', Arial;
+    font-family: 'Quicksand', sans-serif;    
     letter-spacing: 0.3em;
     color: #838994;
     -webkit-font-smoothing: antialiased;
@@ -62,10 +62,13 @@ h1 {
 
 .cases {
     padding-bottom: 7rem;
-}
+    padding-top: 1rem;
+    background-color: rgba(241, 90, 36, 1);
+    }
+
 
 .cases h3 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
     letter-spacing: 0.023em;
     font-weight: lighter;
 }
@@ -93,7 +96,7 @@ li {
 /* Cases */
 
 .cases h2 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
     -webkit-font-smoothing: antialiased;
     margin-top: 5rem;
     font-size: 2.423rem;
@@ -112,7 +115,7 @@ li {
 
 .cases .devices h3 {
     font-weight: 400px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
     -webkit-font-smoothing: antialiased;
     margin: 2rem 0px 2rem;
 }
@@ -124,7 +127,7 @@ li {
 }
 .social h3 {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
     -webkit-font-smoothing: antialiased;
     font-weight: lighter;
 
@@ -159,7 +162,7 @@ li {
 }
 
 .social .copy {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Quicksand', sans-serif; 
     -webkit-font-smoothing: antialiased;
     text-align: center;
     font-size: 12px;
